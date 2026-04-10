@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: none;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.btn {
+  border-radius: 8px;
+}
